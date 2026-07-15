@@ -219,27 +219,9 @@ Sistem menggunakan beberapa task:
 
 ---
 
-# 13. Diagram Sistem
+# 13. Gambar Sistem
 
-## Diagram Sistem
-
-> Tambahkan gambar diagram sistem di sini.
-
-```
-docs/diagram-sistem.png
-```
-
----
-
-## Wiring Diagram
-
-> Tambahkan gambar wiring di sini.
-
-```
-docs/wiring-diagram.png
-```
-
----
+<img width="1152" height="864" alt="WhatsApp Image 2026-07-15 at 07 40 51" src="https://github.com/user-attachments/assets/e80d53ca-f1a6-4a1b-9937-3d97798315ea" />
 
 # 14. Kesimpulan
 
